@@ -20,5 +20,7 @@ Today our lifestyle has changed and so our food. We want to eat food which is ta
   3) MongoDB
   4) Express JS
   5) Materialize CSS
-
+## Contributions:
+  -Indra Raj
+  -Harsh Kr Sharma
 
